@@ -1,1 +1,54 @@
+# Aurora
 
+9/12 -- 9/25
+Proposal -- Aurora 
+
+Data -- Yuan
+    Walmart & Target -- Bloomberg & Thomson one
+    S&P 500 
+    VIX
+
+    What is the longest time series that can be downloaded given frequency?
+    1) Daily -- 2 years;
+    2) Minute -- 3 months.
+    
+    Data of different assets can be asynchronous.
+    
+Paper -- Zhengdi & Pu
+    Jiang, Z., Xu, D.& Liang, J.. A deep reinforcement learning framework for the financial portfolio management problem. 
+    Working paper. July 2017.
+
+
+9/26 --  
+Data -- Yuan & Zhengdi 
+
+    Feature engineering -- price history (including close, high, low), S&P 500, VIX, federal funds rate, portfolio market value 
+                           In addition, we consider correlation between asset returns. 
+                            
+                           To do: What else? 
+                           
+    Asset preselection
+    1. Number -- 10 ~ 20 from multiple sectors & 3 ~ 5 from a single sector.
+    2. Criteria 
+      1) liquidity (measured by, possibly, ADTV);
+      2) popularity (e.g., facebook and Google in tech sector).
+      Both are reasonable criteria when an investor selects assets to include in his/her portfolio.
+      The latter one can lead to comovements between asset returns.
+    
+    To do: Find all sectors; Select several popular sectors and assets.
+    
+    To do: Data exploration and processing  
+    
+    *Join implementation after data analysis is done.
+    
+Implementation -- Aurora & Pu
+
+    Paper -- Jiang, Z., Xu, D.& Liang, J.. A deep reinforcement learning framework for the financial portfolio management problem. 
+             Working paper. July 2017.
+             
+    General framework
+    
+    Component 
+    *Yuan & Zhengdi may join in if they would like to.
+    
+Idea -- everyone
