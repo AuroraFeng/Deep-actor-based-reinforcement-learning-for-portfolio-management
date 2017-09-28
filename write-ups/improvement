@@ -1,1 +1,4 @@
 
+1. How to address the noisy nature of high-frequency (say 1-minute) price data 
+
+Transform time-domain price data to frequency-domain, and filter out noisy component. (Yuan)
