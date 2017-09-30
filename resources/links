@@ -3,3 +3,6 @@
 Reinforcement learning
 https://github.com/dennybritz/reinforcement-learning
 Codes, tutorials, and papers.
+
+Code reference for reinforcement learning + policy gradient using keras:
+https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
