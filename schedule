@@ -39,8 +39,6 @@ Data -- Yuan & Zhengdi
     
     To do: Data exploration and processing  
     
-    To do: Time-domain to frequency-domain and filter out noisy component
-    
     *Join implementation after data analysis is done.
     
 Implementation -- Aurora & Pu
@@ -50,6 +48,8 @@ Implementation -- Aurora & Pu
              
     General framework
     
+    Time-domain to frequency-domain and filter out noisy component
+    
     Component 
     *Yuan & Zhengdi may join in if they would like to.
     
@@ -58,3 +58,5 @@ Idea -- everyone
         Network architecture e.g. how and where to incorporate asset return comovements.
         
         Markov decision process horizon -- 1 day
+        
+        Cluster assets based on correlation distance, and convolve assets in the same cluster. 
