@@ -4,5 +4,9 @@ Reinforcement learning
 https://github.com/dennybritz/reinforcement-learning
 Codes, tutorials, and papers.
 
+Replication of RL for portfolio management paper
+https://github.com/wassname/rl-portfolio-management/blob/master/keras-ddpg.ipynb
+
+
 Code reference for reinforcement learning + policy gradient using keras:
 https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html
